@@ -1,0 +1,22 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.links{
+    position: relative;
+    left: 330px;
+}
+.links a:hover{
+    font-size: 20px;
+    transition: 0.3s;
+}
+
+.img img:hover{
+    width: 350px;
+    transition: 0.5s;
+}
+
+ul li {
+    text-decoration: underline;
+}
